@@ -60,14 +60,14 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 --------------------------------------------------------------------------------------------------------------------------
 WH-Encryptor v3
 
-For License key , SHOP  [Here]( https://sellix.io/product/5f0b4376895ae " License key")
+For License key , SHOP  [Here]( https://sellix.io/product/5fda4668ced5e " License key")
 
 OR 
 
-More Shop [Here]( https://sellix.io/whcyberspace " License key")
+More Shop [Here]( https://sellix.io/whcyberspace " More")
 
 
-Price : $66.00/=
+Price : $52.00/=
 
 default payment section ( BITCOIN or paypal )
 
