@@ -1,21 +1,10 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png" height="60"><br>
-
-</p>
-
-<br>
 
 # NOTE :    [   Don't upload payload inbuilt Antivirus website   ]
 
 <br>
 
-# recommended :    [  All Update versions available here    ]
 
-☆ WH ENCRYPTOR V3.3 > [Here]( https://mega.nz/file/pQsTiZRQ#1OG6mWrSHVTaNvlyhDl5a_LkiCGBg0TowuwO3mkK8FU " WH ENCRYPTOR")
-
-<br>
-
-# 🏳 WH-Cyberspace (WH-Encryptor) 🔞
+# 🏳 WH-Cyberspace (Dr. Cryptor) 🔞
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 
@@ -38,24 +27,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 
 
-# 💡 HOW TO download and run in WINDOWS
 
-1. Download Zip file https://github.com/wh-Cyberspace/WH-Encryptor/archive/master.zip
-
-2. Open up Windows directory
-
-3. Now, Unzip your download file (WH-Encryptor-master.zip) 
-
-4. and open directory
-
-5. now , windows defender turn off real time protection 
-
-6. and run ( WH-Encryptor.exe )
-
-7. accept license agreement and extract
-
-8. now Run ( WH Encryptor.exe)
- 
 
 # License key 🔑
 --------------------------------------------------------------------------------------------------------------------------
@@ -80,25 +52,11 @@ Official  Facebook page : https://facebook.com/wh.hackerexploit
 Official Telegrams Group:  https://t.me/whcyberspace
 
 ------------------------------------------------------------------------------------------------------------------------------
-# Virus Total INFO..
-
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-05-28%20VirusTotal.png)](# "Don't upload payload inbuilt Antivirus website")
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-06-06%20VirusTotal.png)](d "Don't upload payload inbuilt Antivirus website")
-
-
-
 
 
 # 💡 How To Use ? YOUTUBE VIDEO ⬇ 
  
  
-
- ☆ how to use in pc ⏬
- 
-🏳 [WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace [windows]]( https://youtu.be/ZHAtKrWikw4 "WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace ( windows PC ) ") 
-
 
 
 
