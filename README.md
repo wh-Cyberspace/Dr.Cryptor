@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
- <h2>Dr. Cryptor</h2>
+ Dr. Cryptor
  </p>
 <br>
 
