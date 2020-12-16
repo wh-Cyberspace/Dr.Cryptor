@@ -92,7 +92,7 @@ Official Telegrams Group:  https://t.me/whcyberspace
 
 # 🌌 Screenshot:
 
-
+<p align="center">
 
 [![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Dr.Cryptor/main/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
@@ -107,7 +107,7 @@ Official Telegrams Group:  https://t.me/whcyberspace
 [![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Dr.Cryptor/main/img/7.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
 
-
+</p>
 
 <br /><br />
 
