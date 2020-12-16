@@ -9,6 +9,27 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 
 
+
+# Dr.Cryptor Version - 1.0.1  pro | ( Priver Version )
+
+
+[ About of framework Features ]
+
+[+] Apk encryption function
+
+[+] WINDOWS Exe encryption function
+
+[+] Java Jar encryption function
+
+[+] Visual Basic encryption function
+
+[+] C # encryption function
+
+[+] Algorithm Max function
+
+[+] Obfuscation Max function
+
+
 # ➰ requirements PKG
 
 ☆ Net framework 3.5  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
