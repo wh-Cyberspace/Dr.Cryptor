@@ -77,9 +77,9 @@ default payment section ( BITCOIN or paypal )
 
 
 or
-Official  Facebook page : https://facebook.com/wh.hackerexploit
+Official  Facebook page :  [Here]( https://facebook.com/wh.hackerexploit " Facebook") 
 
-Official Telegrams Group:  https://t.me/whcyberspace
+Official Telegrams Group: [Here]( https://t.me/whcyberspace " telegrams") 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
