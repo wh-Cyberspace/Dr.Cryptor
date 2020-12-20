@@ -38,6 +38,11 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 [+] Obfuscation Max function
 
+# ➰ requirements PKG
+
+☆ 🧑‍💻  [ YOUTUBE ]( https://www.youtube.com/watch?v=1MPBFYisxPI&feature=youtu.be "Dr. Cryptorv1.0.1 ")
+
+
 
 # ➰ requirements PKG
 
