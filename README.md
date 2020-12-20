@@ -70,7 +70,7 @@ OR
 More Shop [Here]( https://sellix.io/whcyberspace " More")
 
 
-Price : $52.00/=
+Price : $56.00/=
 
 default payment section ( BITCOIN or paypal )
 
